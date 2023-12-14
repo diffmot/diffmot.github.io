@@ -1,8 +1,8 @@
 # Nerfies
 
-This is the repository that contains source code for the [DiffMOT website](https://kroery.github.io).
+This is the repository that contains source code for the [DiffMOT website](https://diffmot.github.io).
 
-If you find Nerfies useful for your work please cite:
+If you find DiffMOT useful for your work please cite:
 ```
 waiting for updating
 ```
