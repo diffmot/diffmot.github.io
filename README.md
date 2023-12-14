@@ -1,4 +1,4 @@
-# Nerfies
+# DiffMOT
 
 This is the repository that contains source code for the [DiffMOT website](https://diffmot.github.io).
 
