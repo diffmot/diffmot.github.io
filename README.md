@@ -4,7 +4,12 @@ This is the repository that contains source code for the [DiffMOT website](https
 
 If you find DiffMOT useful for your work please cite:
 ```
-waiting for updating
+@article{lv2024diffmot,
+  title={DiffMOT: A Real-time Diffusion-based Multiple Object Tracker with Non-linear Prediction},
+  author={Lv, Weiyi and Huang, Yuhang and Zhang, Ning and Lin, Ruei-Sung and Han, Mei and Zeng, Dan},
+  journal={arXiv preprint arXiv:2403.02075},
+  year={2024}
+}
 ```
 
 # Website License
